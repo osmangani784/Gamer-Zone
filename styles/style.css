@@ -193,4 +193,29 @@ line-height: 60px;
     left: 30%;
     margin-top: 30%;
 }
+.item-9{
+    background: bisque;
+    padding: 100px 100px;
+    display: flex;
+    flex-direction: column;
 
+}
+.item-5{
+    display: flex;
+    justify-content: center;
+    
+}
+.item-4{
+    display: flex;
+    justify-content: center;
+}
+.item{
+    display: flex;
+    margin: 10px;
+    
+border-radius: 50px;
+background: #FFF;
+}
+.item:hover{
+    border: brown solid 2px;
+}
