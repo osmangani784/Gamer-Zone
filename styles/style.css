@@ -171,5 +171,26 @@ line-height: normal;
 #exceptional{
     margin-right: 0%;
 }
-    
+.opt{
+    display: flex;
+    text-align: right;
+    margin: 2rem 10rem;
+    justify-content: space-between;
+
+}
+.opt h3{
+    font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: 60px;
+
+}
+.opt span{
+    color: darkorchid;
+}
+#position{
+    position: absolute;
+    left: 30%;
+    margin-top: 30%;
+}
 
