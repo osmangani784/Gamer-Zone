@@ -219,3 +219,23 @@ background: #FFF;
 .item:hover{
     border: brown solid 2px;
 }
+.div-1{
+    display: flex;
+    justify-content: center;
+    
+}
+.div-2 ul{
+    display: flex;
+    justify-content: center;
+}
+.div-2 li{
+    list-style: none;
+    font-size: 18px;
+    font-weight: 600;
+    margin: 20px;
+    
+    
+}
+.div-2 a{
+    text-decoration: #FFF;
+}
