@@ -138,6 +138,38 @@ font-weight: 700;
 line-height: normal;
 color: darkorchid;
 }
+.online-game-text{
+    text-align: center;
+}
+
+.online-game-text h3{
+    font-size: 3rem;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+
+} 
+.online-game-text h3 span{
+    color: darkmagenta;
+}
+.online-game-img{
+    display: flex;
+    justify-content: space-between;
+} 
+.online-game-img img:hover{
+    opacity: 0.5;
     
+}
+.online-game-img-level ul{
+    display: flex;
+    justify-items: left;
+}
+.online-game-img-level li{
+    list-style: none;
+    margin-right: 5rem;
+}
+#exceptional{
+    margin-right: 0%;
+}
     
 
